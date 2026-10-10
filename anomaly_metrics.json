@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.7107051046639735,
+    "normal_detection_rate": 0.979976717112922,
+    "false_alarm_rate": 0.4646051235410035,
+    "fault_detection_rate": 0.5353948764589965,
+    "confusion_matrix": [
+        [
+            3532,
+            3065
+        ],
+        [
+            86,
+            4209
+        ]
+    ]
+}
