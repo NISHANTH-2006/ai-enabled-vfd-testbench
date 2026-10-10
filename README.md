@@ -27,6 +27,16 @@ This project combines machine learning models with VFD operational data to suppo
 
 Python, Pandas, NumPy, Scikit-learn, Joblib, and Jupyter Notebook.
 
+## Dataset
+
+This project uses publicly available VFD datasets for model development, testing, and evaluation.
+
+The datasets are used as input data for anomaly detection, drive health classification, fault classification, and Remaining Useful Life (RUL) prediction.
+
+**Dataset source:** [Insert the original dataset name and URL here]
+
+The dataset is credited to its original authors or publishers. Please refer to the original source for its license and usage conditions.
+
 ## Getting Started
 
 1. Clone or download this repository.
