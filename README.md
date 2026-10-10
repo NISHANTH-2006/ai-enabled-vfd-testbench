@@ -29,13 +29,20 @@ Python, Pandas, NumPy, Scikit-learn, Joblib, and Jupyter Notebook.
 
 ## Dataset
 
-This project uses publicly available VFD datasets for model development, testing, and evaluation.
+This project uses the publicly available **ORCA-VFD dataset** for developing and evaluating machine-learning models for VFD condition monitoring.
 
-The datasets are used as input data for anomaly detection, drive health classification, fault classification, and Remaining Useful Life (RUL) prediction.
+The dataset supports analysis of VFD operating conditions, anomaly detection, fault classification, and Remaining Useful Life (RUL) prediction. This project uses the following dataset files:
 
-**Dataset source:** [Insert the original dataset name and URL here]
+- `orca_vfd_fault_master.csv`
+- `orca_vfd_full_lifecycle_100k.csv`
 
-The dataset is credited to its original authors or publishers. Please refer to the original source for its license and usage conditions.
+**Original source:** Carl Lee Tolbert, *ORCA-VFD: A Field-Validated Machine Learning Framework for Remaining Useful Life Prediction Using Standard Variable Frequency Drive Parameters*.
+
+- **Research publication:** https://doi.org/10.5281/zenodo.21192516
+- **Dataset repository:** https://github.com/gencaddy2/ORCA-VFD
+- **Dataset archive:** https://doi.org/10.6084/m9.figshare.30727865
+
+The original dataset and its associated research are credited to their respective creator. Please refer to the original source for the applicable license and attribution requirements.
 
 ## Getting Started
 
